@@ -1,0 +1,23 @@
+version: '3.7'
+
+services:
+  rabbitmq:
+    image: 'rabbitmq:3.11-management-alpine'
+    container_name: rabbitmq
+    ports:
+      - '5672:5672'
+      - '15672:15672'
+
+  mariadb:
+    image: mariadb:10.9
+    container_name: mariadb
+    ports:
+      - '3306:3306'
+    environment:
+      - ALLOW_EMPTY_PASSWORD=no
+      - MARIADB_ROOT_PASSWORD=challenge
+      - MARIADB_DATABASE=challenge
+      - MARIADB_USER=challenge
+      - MARIADB_PASSWORD=challenge
+    volumes:
+      - ./docker/mariadb/init-scripts/01-create-new-album.sql:/docker-entrypoint-initdb.d/01-create-new-album.sql
