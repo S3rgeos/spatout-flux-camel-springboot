@@ -28,7 +28,27 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+		<dependency>
+			<groupId>org.apache.camel</groupId>
+			<artifactId>camel-http</artifactId>
+			<version>4.0.0-M1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.camel</groupId>
+			<artifactId>camel-base64</artifactId>
+			<version>4.0.0-M1</version>
+		  </dependency>
+		  <dependency>
+			<groupId>org.apache.camel</groupId>
+			<artifactId>camel-jackson</artifactId>
+			<version>4.0.0-M1</version>
+		  </dependency>
+		  <dependency>
+			<groupId>org.apache.camel</groupId>
+			<artifactId>camel-rabbitmq</artifactId>
+			<version>3.4.6</version>
+		</dependency>
+    </dependencies>
 
 	<build>
 		<plugins>
