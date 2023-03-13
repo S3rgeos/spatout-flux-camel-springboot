@@ -1,0 +1,2432 @@
+{
+	"albums": {
+		"href": "https://api.spotify.com/v1/search?query=tag%3Anew&type=album&market=US&offset=0&limit=50",
+		"items": [
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+						},
+						"href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+						"id": "4oUHIQIBe0LHzYfvXNW4QM",
+						"name": "Morgan Wallen",
+						"type": "artist",
+						"uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+				},
+				"href": "https://api.spotify.com/v1/albums/6i7mF7whyRJuLJ4ogbH2wh",
+				"id": "6i7mF7whyRJuLJ4ogbH2wh",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273fda3d35cd6d88c35f82a492e",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02fda3d35cd6d88c35f82a492e",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851fda3d35cd6d88c35f82a492e",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "One Thing At A Time",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 36,
+				"type": "album",
+				"uri": "spotify:album:6i7mF7whyRJuLJ4ogbH2wh"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+						},
+						"href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+						"id": "790FomKkXshlbRYZFtlgla",
+						"name": "KAROL G",
+						"type": "artist",
+						"uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+				},
+				"href": "https://api.spotify.com/v1/albums/4kS7bSuU0Jm9LYMosFU2x5",
+				"id": "4kS7bSuU0Jm9LYMosFU2x5",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0282de1ca074ae63cb18fce335",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485182de1ca074ae63cb18fce335",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "MAÑANA SERÁ BONITO",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 17,
+				"type": "album",
+				"uri": "spotify:album:4kS7bSuU0Jm9LYMosFU2x5"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+						},
+						"href": "https://api.spotify.com/v1/artists/3qiHUAX7zY4Qnjx8TNUzVx",
+						"id": "3qiHUAX7zY4Qnjx8TNUzVx",
+						"name": "Yeat",
+						"type": "artist",
+						"uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+				},
+				"href": "https://api.spotify.com/v1/albums/25Uddgldy3slnChqKqHsIM",
+				"id": "25Uddgldy3slnChqKqHsIM",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2733f560650c583444498c214f0",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e023f560650c583444498c214f0",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048513f560650c583444498c214f0",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "AftërLyfe",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 22,
+				"type": "album",
+				"uri": "spotify:album:25Uddgldy3slnChqKqHsIM"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+						},
+						"href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+						"id": "1Xyo4u8uXC1ZmMpatF05PJ",
+						"name": "The Weeknd",
+						"type": "artist",
+						"uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+						},
+						"href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+						"id": "66CXWjxzNUsdJxJ2JdwvnR",
+						"name": "Ariana Grande",
+						"type": "artist",
+						"uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy"
+				},
+				"href": "https://api.spotify.com/v1/albums/6Exo0MYoL3XammoTDeihFy",
+				"id": "6Exo0MYoL3XammoTDeihFy",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2738de12a274f6e1df6634f57ec",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e028de12a274f6e1df6634f57ec",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048518de12a274f6e1df6634f57ec",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Die For You (Remix)",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:6Exo0MYoL3XammoTDeihFy"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+						},
+						"href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+						"id": "4oUHIQIBe0LHzYfvXNW4QM",
+						"name": "Morgan Wallen",
+						"type": "artist",
+						"uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw"
+				},
+				"href": "https://api.spotify.com/v1/albums/7aj4cB74oT3vTHDHAMaiHw",
+				"id": "7aj4cB74oT3vTHDHAMaiHw",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27398b0c71a21d2131d0a9e2c0e",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0298b0c71a21d2131d0a9e2c0e",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485198b0c71a21d2131d0a9e2c0e",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "One Thing At A Time",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 36,
+				"type": "album",
+				"uri": "spotify:album:7aj4cB74oT3vTHDHAMaiHw"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+						},
+						"href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+						"id": "06HL4z0CvFAxyc27GXpf02",
+						"name": "Taylor Swift",
+						"type": "artist",
+						"uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
+				},
+				"href": "https://api.spotify.com/v1/albums/5LyzI39gkePgpHz38bEQIr",
+				"id": "5LyzI39gkePgpHz38bEQIr",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273f7c84273e5c8ecb7594b4357",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02f7c84273e5c8ecb7594b4357",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851f7c84273e5c8ecb7594b4357",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Lavender Haze (Remixes)",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 5,
+				"type": "album",
+				"uri": "spotify:album:5LyzI39gkePgpHz38bEQIr"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+						},
+						"href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+						"id": "06HL4z0CvFAxyc27GXpf02",
+						"name": "Taylor Swift",
+						"type": "artist",
+						"uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/5iiEJ3MVz1a8tfPj3bKdOa"
+				},
+				"href": "https://api.spotify.com/v1/albums/5iiEJ3MVz1a8tfPj3bKdOa",
+				"id": "5iiEJ3MVz1a8tfPj3bKdOa",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2733815d534ed12bfeda658d46f",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e023815d534ed12bfeda658d46f",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048513815d534ed12bfeda658d46f",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Lavender Haze (Remixes)",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 5,
+				"type": "album",
+				"uri": "spotify:album:5iiEJ3MVz1a8tfPj3bKdOa"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+						},
+						"href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+						"id": "4Gso3d4CscCijv0lmajZWs",
+						"name": "Don Toliver",
+						"type": "artist",
+						"uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
+				},
+				"href": "https://api.spotify.com/v1/albums/26z5llzd194mcCZHADWd6k",
+				"id": "26z5llzd194mcCZHADWd6k",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273feeff698e6090e6b02f21ec0",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02feeff698e6090e6b02f21ec0",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851feeff698e6090e6b02f21ec0",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Love Sick",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 16,
+				"type": "album",
+				"uri": "spotify:album:26z5llzd194mcCZHADWd6k"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+						},
+						"href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+						"id": "1Xyo4u8uXC1ZmMpatF05PJ",
+						"name": "The Weeknd",
+						"type": "artist",
+						"uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92"
+				},
+				"href": "https://api.spotify.com/v1/albums/1OARrXe5sB0gyy3MhQ8h92",
+				"id": "1OARrXe5sB0gyy3MhQ8h92",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273308f9319a3d6f6737f43b3fc",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02308f9319a3d6f6737f43b3fc",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851308f9319a3d6f6737f43b3fc",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Live At SoFi Stadium",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 31,
+				"type": "album",
+				"uri": "spotify:album:1OARrXe5sB0gyy3MhQ8h92"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+						},
+						"href": "https://api.spotify.com/v1/artists/1VPmR4DJC1PlOtd0IADAO0",
+						"id": "1VPmR4DJC1PlOtd0IADAO0",
+						"name": "$uicideboy$",
+						"type": "artist",
+						"uri": "spotify:artist:1VPmR4DJC1PlOtd0IADAO0"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB"
+						},
+						"href": "https://api.spotify.com/v1/artists/1w7GLktHE8w0aEhhaZ0QKB",
+						"id": "1w7GLktHE8w0aEhhaZ0QKB",
+						"name": "Shakewell",
+						"type": "artist",
+						"uri": "spotify:artist:1w7GLktHE8w0aEhhaZ0QKB"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M"
+				},
+				"href": "https://api.spotify.com/v1/albums/2Ogn4iWeeSPzxJJNW1HC6M",
+				"id": "2Ogn4iWeeSPzxJJNW1HC6M",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273be478d1d2feca9f2a2b31a3b",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02be478d1d2feca9f2a2b31a3b",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851be478d1d2feca9f2a2b31a3b",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "SHAMELESS $UICIDE",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 6,
+				"type": "album",
+				"uri": "spotify:album:2Ogn4iWeeSPzxJJNW1HC6M"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+						},
+						"href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+						"id": "1Xyo4u8uXC1ZmMpatF05PJ",
+						"name": "The Weeknd",
+						"type": "artist",
+						"uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/0YF085Qdh4HgdhZ8zjWkpo"
+				},
+				"href": "https://api.spotify.com/v1/albums/0YF085Qdh4HgdhZ8zjWkpo",
+				"id": "0YF085Qdh4HgdhZ8zjWkpo",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2738b5a9e7c56f01bec356de9d5",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e028b5a9e7c56f01bec356de9d5",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048518b5a9e7c56f01bec356de9d5",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Die For You",
+				"release_date": "2023-02-27",
+				"release_date_precision": "day",
+				"total_tracks": 4,
+				"type": "album",
+				"uri": "spotify:album:0YF085Qdh4HgdhZ8zjWkpo"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+						},
+						"href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+						"id": "1Xyo4u8uXC1ZmMpatF05PJ",
+						"name": "The Weeknd",
+						"type": "artist",
+						"uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2DXQMbPFn4GBcXDBoDCxHz"
+				},
+				"href": "https://api.spotify.com/v1/albums/2DXQMbPFn4GBcXDBoDCxHz",
+				"id": "2DXQMbPFn4GBcXDBoDCxHz",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2730a0d6abc4434cf1aeeaf08ff",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e020a0d6abc4434cf1aeeaf08ff",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048510a0d6abc4434cf1aeeaf08ff",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Live At SoFi Stadium",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 31,
+				"type": "album",
+				"uri": "spotify:album:2DXQMbPFn4GBcXDBoDCxHz"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+						},
+						"href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+						"id": "1Xyo4u8uXC1ZmMpatF05PJ",
+						"name": "The Weeknd",
+						"type": "artist",
+						"uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/0UKezqSisauPVMHTStkyW1"
+				},
+				"href": "https://api.spotify.com/v1/albums/0UKezqSisauPVMHTStkyW1",
+				"id": "0UKezqSisauPVMHTStkyW1",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273164cf3bea582aee962a1c987",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02164cf3bea582aee962a1c987",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851164cf3bea582aee962a1c987",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Live At SoFi Stadium",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 31,
+				"type": "album",
+				"uri": "spotify:album:0UKezqSisauPVMHTStkyW1"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+						},
+						"href": "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+						"id": "1U1el3k54VvEUzo3ybLPlM",
+						"name": "Kali Uchis",
+						"type": "artist",
+						"uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+				},
+				"href": "https://api.spotify.com/v1/albums/5OZ44LaqZbpP3m9B3oT8br",
+				"id": "5OZ44LaqZbpP3m9B3oT8br",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0281fccd758776d16b87721b17",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485181fccd758776d16b87721b17",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Red Moon In Venus",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 15,
+				"type": "album",
+				"uri": "spotify:album:5OZ44LaqZbpP3m9B3oT8br"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+						},
+						"href": "https://api.spotify.com/v1/artists/0RESbWvOMyua0yuyVrztJ5",
+						"id": "0RESbWvOMyua0yuyVrztJ5",
+						"name": "Key Glock",
+						"type": "artist",
+						"uri": "spotify:artist:0RESbWvOMyua0yuyVrztJ5"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX"
+				},
+				"href": "https://api.spotify.com/v1/albums/6CStfhn3zZbyMbJ2o8CkkX",
+				"id": "6CStfhn3zZbyMbJ2o8CkkX",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2734a091c227f04f84d710df3f5",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e024a091c227f04f84d710df3f5",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048514a091c227f04f84d710df3f5",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Glockoma 2",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 15,
+				"type": "album",
+				"uri": "spotify:album:6CStfhn3zZbyMbJ2o8CkkX"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+						},
+						"href": "https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L",
+						"id": "4xRYI6VqpkE3UwrDrAZL8L",
+						"name": "Logic",
+						"type": "artist",
+						"uri": "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
+				},
+				"href": "https://api.spotify.com/v1/albums/57T1flhMpfjP4T4yW38qW0",
+				"id": "57T1flhMpfjP4T4yW38qW0",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273d7b5784333dee221f45d75b6",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02d7b5784333dee221f45d75b6",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851d7b5784333dee221f45d75b6",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "College Park",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 17,
+				"type": "album",
+				"uri": "spotify:album:57T1flhMpfjP4T4yW38qW0"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+						},
+						"href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+						"id": "3AA28KZvwAUcZuOKwyblJQ",
+						"name": "Gorillaz",
+						"type": "artist",
+						"uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+				},
+				"href": "https://api.spotify.com/v1/albums/4wtZQMNTC1O79kDxMBsEan",
+				"id": "4wtZQMNTC1O79kDxMBsEan",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2734b0ddebba0d5b34f2a2f07a4",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e024b0ddebba0d5b34f2a2f07a4",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048514b0ddebba0d5b34f2a2f07a4",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Cracker Island",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 10,
+				"type": "album",
+				"uri": "spotify:album:4wtZQMNTC1O79kDxMBsEan"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+						},
+						"href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+						"id": "4Gso3d4CscCijv0lmajZWs",
+						"name": "Don Toliver",
+						"type": "artist",
+						"uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
+				},
+				"href": "https://api.spotify.com/v1/albums/2Q2TRdT994vTzGE3Grmmht",
+				"id": "2Q2TRdT994vTzGE3Grmmht",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273f5e27c2aa0b110c2b6611577",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02f5e27c2aa0b110c2b6611577",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851f5e27c2aa0b110c2b6611577",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Love Sick (Deluxe)",
+				"release_date": "2023-02-28",
+				"release_date_precision": "day",
+				"total_tracks": 20,
+				"type": "album",
+				"uri": "spotify:album:2Q2TRdT994vTzGE3Grmmht"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+						},
+						"href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+						"id": "55Aa2cqylxrFIXC767Z865",
+						"name": "Lil Wayne",
+						"type": "artist",
+						"uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/6Qi8Hf2PW97oZP2a4Tvd24"
+				},
+				"href": "https://api.spotify.com/v1/albums/6Qi8Hf2PW97oZP2a4Tvd24",
+				"id": "6Qi8Hf2PW97oZP2a4Tvd24",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2731e725a85985f8279f466ccab",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e021e725a85985f8279f466ccab",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048511e725a85985f8279f466ccab",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Kant Nobody",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:6Qi8Hf2PW97oZP2a4Tvd24"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+						},
+						"href": "https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b",
+						"id": "7wlFDEWiM5OoIAt8RSli8b",
+						"name": "YoungBoy Never Broke Again",
+						"type": "artist",
+						"uri": "spotify:artist:7wlFDEWiM5OoIAt8RSli8b"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/1u5XySnCu5otM2RSQNWYUA"
+				},
+				"href": "https://api.spotify.com/v1/albums/1u5XySnCu5otM2RSQNWYUA",
+				"id": "1u5XySnCu5otM2RSQNWYUA",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27309ab191b67afa01c725f0115",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0209ab191b67afa01c725f0115",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485109ab191b67afa01c725f0115",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Next",
+				"release_date": "2023-02-28",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:1u5XySnCu5otM2RSQNWYUA"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+						},
+						"href": "https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b",
+						"id": "7wlFDEWiM5OoIAt8RSli8b",
+						"name": "YoungBoy Never Broke Again",
+						"type": "artist",
+						"uri": "spotify:artist:7wlFDEWiM5OoIAt8RSli8b"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/6CXZdTbEvOyOQ9f2m1iUZA"
+				},
+				"href": "https://api.spotify.com/v1/albums/6CXZdTbEvOyOQ9f2m1iUZA",
+				"id": "6CXZdTbEvOyOQ9f2m1iUZA",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27322f514a773daf77a2446be3f",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0222f514a773daf77a2446be3f",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485122f514a773daf77a2446be3f",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Demon Party",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:6CXZdTbEvOyOQ9f2m1iUZA"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+						},
+						"href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+						"id": "55Aa2cqylxrFIXC767Z865",
+						"name": "Lil Wayne",
+						"type": "artist",
+						"uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/5Ri0Ml4nBSK6AYF2zc7yjO"
+				},
+				"href": "https://api.spotify.com/v1/albums/5Ri0Ml4nBSK6AYF2zc7yjO",
+				"id": "5Ri0Ml4nBSK6AYF2zc7yjO",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27376924f94ec9dd41ccf0a6380",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0276924f94ec9dd41ccf0a6380",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485176924f94ec9dd41ccf0a6380",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Kant Nobody",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:5Ri0Ml4nBSK6AYF2zc7yjO"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+						},
+						"href": "https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b",
+						"id": "7wlFDEWiM5OoIAt8RSli8b",
+						"name": "YoungBoy Never Broke Again",
+						"type": "artist",
+						"uri": "spotify:artist:7wlFDEWiM5OoIAt8RSli8b"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/3Ex3f0VBLU0XHfQPotkoue"
+				},
+				"href": "https://api.spotify.com/v1/albums/3Ex3f0VBLU0XHfQPotkoue",
+				"id": "3Ex3f0VBLU0XHfQPotkoue",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27315d61b80dd9bf0822b6e4747",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0215d61b80dd9bf0822b6e4747",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485115d61b80dd9bf0822b6e4747",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Next",
+				"release_date": "2023-02-28",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:3Ex3f0VBLU0XHfQPotkoue"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+						},
+						"href": "https://api.spotify.com/v1/artists/7wlFDEWiM5OoIAt8RSli8b",
+						"id": "7wlFDEWiM5OoIAt8RSli8b",
+						"name": "YoungBoy Never Broke Again",
+						"type": "artist",
+						"uri": "spotify:artist:7wlFDEWiM5OoIAt8RSli8b"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/13MCkdR1HqTl3GGzOhoWAU"
+				},
+				"href": "https://api.spotify.com/v1/albums/13MCkdR1HqTl3GGzOhoWAU",
+				"id": "13MCkdR1HqTl3GGzOhoWAU",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27368230805208011683083cb41",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0268230805208011683083cb41",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485168230805208011683083cb41",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Demon Party",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:13MCkdR1HqTl3GGzOhoWAU"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+						},
+						"href": "https://api.spotify.com/v1/artists/3qiHUAX7zY4Qnjx8TNUzVx",
+						"id": "3qiHUAX7zY4Qnjx8TNUzVx",
+						"name": "Yeat",
+						"type": "artist",
+						"uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/29d8dGxvF4gdkPwZI4f5Ub"
+				},
+				"href": "https://api.spotify.com/v1/albums/29d8dGxvF4gdkPwZI4f5Ub",
+				"id": "29d8dGxvF4gdkPwZI4f5Ub",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27378f366f7d63555f055f07c60",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0278f366f7d63555f055f07c60",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485178f366f7d63555f055f07c60",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "AftërLyfe",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 22,
+				"type": "album",
+				"uri": "spotify:album:29d8dGxvF4gdkPwZI4f5Ub"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+						},
+						"href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+						"id": "0hCNtLu0JehylgoiP8L4Gh",
+						"name": "Nicki Minaj",
+						"type": "artist",
+						"uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+				},
+				"href": "https://api.spotify.com/v1/albums/0zCHOD0Z8yOrIP1fw7u1J6",
+				"id": "0zCHOD0Z8yOrIP1fw7u1J6",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273064c51559ea4a86bd557a86f",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02064c51559ea4a86bd557a86f",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851064c51559ea4a86bd557a86f",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Red Ruby Da Sleeze",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:0zCHOD0Z8yOrIP1fw7u1J6"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+						},
+						"href": "https://api.spotify.com/v1/artists/718COspgdWOnwOFpJHRZHS",
+						"id": "718COspgdWOnwOFpJHRZHS",
+						"name": "Luke Combs",
+						"type": "artist",
+						"uri": "spotify:artist:718COspgdWOnwOFpJHRZHS"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/3SfvfIU7ttLjbdRuu3L9fI"
+				},
+				"href": "https://api.spotify.com/v1/albums/3SfvfIU7ttLjbdRuu3L9fI",
+				"id": "3SfvfIU7ttLjbdRuu3L9fI",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273c0bc002e73eb3fca8827a5b4",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02c0bc002e73eb3fca8827a5b4",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851c0bc002e73eb3fca8827a5b4",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Joe",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:3SfvfIU7ttLjbdRuu3L9fI"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+						},
+						"href": "https://api.spotify.com/v1/artists/4tuJ0bMpJh08umKkEXKUI5",
+						"id": "4tuJ0bMpJh08umKkEXKUI5",
+						"name": "Gracie Abrams",
+						"type": "artist",
+						"uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ"
+				},
+				"href": "https://api.spotify.com/v1/albums/5ZCIbfKnv3GF5h5h8MiRzQ",
+				"id": "5ZCIbfKnv3GF5h5h8MiRzQ",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2737a13f362954eb4d7f160eeec",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e027a13f362954eb4d7f160eeec",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048517a13f362954eb4d7f160eeec",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Good Riddance",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 12,
+				"type": "album",
+				"uri": "spotify:album:5ZCIbfKnv3GF5h5h8MiRzQ"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+						},
+						"href": "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+						"id": "1U1el3k54VvEUzo3ybLPlM",
+						"name": "Kali Uchis",
+						"type": "artist",
+						"uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+				},
+				"href": "https://api.spotify.com/v1/albums/1y8Yw0NDcP2qxbZufIXt7u",
+				"id": "1y8Yw0NDcP2qxbZufIXt7u",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273b13b4a434585f484548e42c9",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02b13b4a434585f484548e42c9",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851b13b4a434585f484548e42c9",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Moonlight",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:1y8Yw0NDcP2qxbZufIXt7u"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+						},
+						"href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+						"id": "790FomKkXshlbRYZFtlgla",
+						"name": "KAROL G",
+						"type": "artist",
+						"uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+						},
+						"href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+						"id": "0EmeFodog0BfCgMzAIvKQp",
+						"name": "Shakira",
+						"type": "artist",
+						"uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/5f4P1wEFrcMyJKahHfLaoa"
+				},
+				"href": "https://api.spotify.com/v1/albums/5f4P1wEFrcMyJKahHfLaoa",
+				"id": "5f4P1wEFrcMyJKahHfLaoa",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273aff21e7b9470ce4affb09498",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02aff21e7b9470ce4affb09498",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851aff21e7b9470ce4affb09498",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "TQG",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:5f4P1wEFrcMyJKahHfLaoa"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+						},
+						"href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+						"id": "790FomKkXshlbRYZFtlgla",
+						"name": "KAROL G",
+						"type": "artist",
+						"uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+						},
+						"href": "https://api.spotify.com/v1/artists/77ziqFxp5gaInVrF2lj4ht",
+						"id": "77ziqFxp5gaInVrF2lj4ht",
+						"name": "Sech",
+						"type": "artist",
+						"uri": "spotify:artist:77ziqFxp5gaInVrF2lj4ht"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/36bdRVxQdGT3H7vNoiDfuy"
+				},
+				"href": "https://api.spotify.com/v1/albums/36bdRVxQdGT3H7vNoiDfuy",
+				"id": "36bdRVxQdGT3H7vNoiDfuy",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2739bb3b9108637afe660f1f510",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e029bb3b9108637afe660f1f510",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048519bb3b9108637afe660f1f510",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "DAÑAMOS LA AMISTAD",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:36bdRVxQdGT3H7vNoiDfuy"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+						},
+						"href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+						"id": "790FomKkXshlbRYZFtlgla",
+						"name": "KAROL G",
+						"type": "artist",
+						"uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+						},
+						"href": "https://api.spotify.com/v1/artists/14zUHaJZo1mnYtn6IBRaRP",
+						"id": "14zUHaJZo1mnYtn6IBRaRP",
+						"name": "Justin Quiles",
+						"type": "artist",
+						"uri": "spotify:artist:14zUHaJZo1mnYtn6IBRaRP"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+						},
+						"href": "https://api.spotify.com/v1/artists/5qPRgWcEOGRzoIST0sHAiI",
+						"id": "5qPRgWcEOGRzoIST0sHAiI",
+						"name": "Angel Dior",
+						"type": "artist",
+						"uri": "spotify:artist:5qPRgWcEOGRzoIST0sHAiI"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/5TpBcMBm8v1UkSeONfsMeT"
+				},
+				"href": "https://api.spotify.com/v1/albums/5TpBcMBm8v1UkSeONfsMeT",
+				"id": "5TpBcMBm8v1UkSeONfsMeT",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273c93f27f585515a503a5785b6",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02c93f27f585515a503a5785b6",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851c93f27f585515a503a5785b6",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "OJOS FERRARI",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:5TpBcMBm8v1UkSeONfsMeT"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+						},
+						"href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+						"id": "790FomKkXshlbRYZFtlgla",
+						"name": "KAROL G",
+						"type": "artist",
+						"uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+						},
+						"href": "https://api.spotify.com/v1/artists/52iwsT98xCoGgiGntTiR7K",
+						"id": "52iwsT98xCoGgiGntTiR7K",
+						"name": "Quevedo",
+						"type": "artist",
+						"uri": "spotify:artist:52iwsT98xCoGgiGntTiR7K"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/1GIm84Pb9KjbOHz4PXrAbe"
+				},
+				"href": "https://api.spotify.com/v1/albums/1GIm84Pb9KjbOHz4PXrAbe",
+				"id": "1GIm84Pb9KjbOHz4PXrAbe",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27367a1aecfe71c8cb90cc73b44",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0267a1aecfe71c8cb90cc73b44",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485167a1aecfe71c8cb90cc73b44",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "PERO TÚ",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:1GIm84Pb9KjbOHz4PXrAbe"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+						},
+						"href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+						"id": "790FomKkXshlbRYZFtlgla",
+						"name": "KAROL G",
+						"type": "artist",
+						"uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+						},
+						"href": "https://api.spotify.com/v1/artists/4F4pp8NUW08JuXwnoxglpN",
+						"id": "4F4pp8NUW08JuXwnoxglpN",
+						"name": "Bad Gyal",
+						"type": "artist",
+						"uri": "spotify:artist:4F4pp8NUW08JuXwnoxglpN"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+						},
+						"href": "https://api.spotify.com/v1/artists/3Isy6kedDrgPYoTS1dazA9",
+						"id": "3Isy6kedDrgPYoTS1dazA9",
+						"name": "Sean Paul",
+						"type": "artist",
+						"uri": "spotify:artist:3Isy6kedDrgPYoTS1dazA9"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/7w1ESFMSHTpxQKlNLda9pt"
+				},
+				"href": "https://api.spotify.com/v1/albums/7w1ESFMSHTpxQKlNLda9pt",
+				"id": "7w1ESFMSHTpxQKlNLda9pt",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273eff4d8537ceaeb734a9d216f",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02eff4d8537ceaeb734a9d216f",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851eff4d8537ceaeb734a9d216f",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "KÁRMIKA",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:7w1ESFMSHTpxQKlNLda9pt"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+						},
+						"href": "https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J",
+						"id": "2tIP7SsRs7vjIcLrU85W8J",
+						"name": "The Kid LAROI",
+						"type": "artist",
+						"uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
+				},
+				"href": "https://api.spotify.com/v1/albums/4ZjQNVehaSszNDfxILOLzW",
+				"id": "4ZjQNVehaSszNDfxILOLzW",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27321153709d4871879d7e8ef69",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0221153709d4871879d7e8ef69",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485121153709d4871879d7e8ef69",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "I GUESS IT'S LOVE?",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:4ZjQNVehaSszNDfxILOLzW"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+						},
+						"href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+						"id": "4Gso3d4CscCijv0lmajZWs",
+						"name": "Don Toliver",
+						"type": "artist",
+						"uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+						},
+						"href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+						"id": "0Y5tJX1MQlPlqiwlOH1tJY",
+						"name": "Travis Scott",
+						"type": "artist",
+						"uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/0Z3NTCoaxoeU9C7F3sgbAC"
+				},
+				"href": "https://api.spotify.com/v1/albums/0Z3NTCoaxoeU9C7F3sgbAC",
+				"id": "0Z3NTCoaxoeU9C7F3sgbAC",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273be3f799633252cc6c0c09885",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02be3f799633252cc6c0c09885",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851be3f799633252cc6c0c09885",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Embarrassed (feat. Travis Scott)",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:0Z3NTCoaxoeU9C7F3sgbAC"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+						},
+						"href": "https://api.spotify.com/v1/artists/790FomKkXshlbRYZFtlgla",
+						"id": "790FomKkXshlbRYZFtlgla",
+						"name": "KAROL G",
+						"type": "artist",
+						"uri": "spotify:artist:790FomKkXshlbRYZFtlgla"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+						},
+						"href": "https://api.spotify.com/v1/artists/0XK6kT7xcZAlcYrNjOgzJe",
+						"id": "0XK6kT7xcZAlcYrNjOgzJe",
+						"name": "Carla Morrison",
+						"type": "artist",
+						"uri": "spotify:artist:0XK6kT7xcZAlcYrNjOgzJe"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/11m9rST3w0lGKlSbbqPpdW"
+				},
+				"href": "https://api.spotify.com/v1/albums/11m9rST3w0lGKlSbbqPpdW",
+				"id": "11m9rST3w0lGKlSbbqPpdW",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27333531678daf0d84103b424df",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0233531678daf0d84103b424df",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485133531678daf0d84103b424df",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "MAÑANA SERÁ BONITO",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:11m9rST3w0lGKlSbbqPpdW"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+						},
+						"href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+						"id": "0hCNtLu0JehylgoiP8L4Gh",
+						"name": "Nicki Minaj",
+						"type": "artist",
+						"uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/2bW0kJNw4nQbNcgwbwrbbx"
+				},
+				"href": "https://api.spotify.com/v1/albums/2bW0kJNw4nQbNcgwbwrbbx",
+				"id": "2bW0kJNw4nQbNcgwbwrbbx",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2732348124cb936d4e9dae57dc7",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e022348124cb936d4e9dae57dc7",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048512348124cb936d4e9dae57dc7",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Red Ruby Da Sleeze",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:2bW0kJNw4nQbNcgwbwrbbx"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+						},
+						"href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+						"id": "4Gso3d4CscCijv0lmajZWs",
+						"name": "Don Toliver",
+						"type": "artist",
+						"uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+						},
+						"href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+						"id": "53KwLdlmrlCelAZMaLVZqU",
+						"name": "James Blake",
+						"type": "artist",
+						"uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/7c55fLEr0a766dQrHNyje2"
+				},
+				"href": "https://api.spotify.com/v1/albums/7c55fLEr0a766dQrHNyje2",
+				"id": "7c55fLEr0a766dQrHNyje2",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27328e5c1be9112ac73cda2fb26",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0228e5c1be9112ac73cda2fb26",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485128e5c1be9112ac73cda2fb26",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Let Her Go (feat. James Blake)",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:7c55fLEr0a766dQrHNyje2"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+						},
+						"href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+						"id": "4Gso3d4CscCijv0lmajZWs",
+						"name": "Don Toliver",
+						"type": "artist",
+						"uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+						},
+						"href": "https://api.spotify.com/v1/artists/6lEhBhAv6HOopjXssi09cq",
+						"id": "6lEhBhAv6HOopjXssi09cq",
+						"name": "TisaKorean",
+						"type": "artist",
+						"uri": "spotify:artist:6lEhBhAv6HOopjXssi09cq"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/3Sh2mGkU8mOXpRsyxjPJG5"
+				},
+				"href": "https://api.spotify.com/v1/albums/3Sh2mGkU8mOXpRsyxjPJG5",
+				"id": "3Sh2mGkU8mOXpRsyxjPJG5",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2735b61365b89d11dfd7b87a554",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e025b61365b89d11dfd7b87a554",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048515b61365b89d11dfd7b87a554",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Go Down (feat. TisaKorean)",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:3Sh2mGkU8mOXpRsyxjPJG5"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+						},
+						"href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+						"id": "3AA28KZvwAUcZuOKwyblJQ",
+						"name": "Gorillaz",
+						"type": "artist",
+						"uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+				},
+				"href": "https://api.spotify.com/v1/albums/1aoWxOWHJNG1VPpJZwpYl2",
+				"id": "1aoWxOWHJNG1VPpJZwpYl2",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2735a2306367554ea80b2f0ca44",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e025a2306367554ea80b2f0ca44",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048515a2306367554ea80b2f0ca44",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Cracker Island (Deluxe)",
+				"release_date": "2023-02-27",
+				"release_date_precision": "day",
+				"total_tracks": 15,
+				"type": "album",
+				"uri": "spotify:album:1aoWxOWHJNG1VPpJZwpYl2"
+			},
+			{
+				"album_group": "album",
+				"album_type": "album",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+						},
+						"href": "https://api.spotify.com/v1/artists/5yPzzu25VzEk8qrGTLIrE1",
+						"id": "5yPzzu25VzEk8qrGTLIrE1",
+						"name": "Young Nudy",
+						"type": "artist",
+						"uri": "spotify:artist:5yPzzu25VzEk8qrGTLIrE1"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g"
+				},
+				"href": "https://api.spotify.com/v1/albums/1UbeEAPS49eulB659XSU9g",
+				"id": "1UbeEAPS49eulB659XSU9g",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273209981a18ed76b7c72e673ea",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02209981a18ed76b7c72e673ea",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851209981a18ed76b7c72e673ea",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Gumbo",
+				"release_date": "2023-02-28",
+				"release_date_precision": "day",
+				"total_tracks": 13,
+				"type": "album",
+				"uri": "spotify:album:1UbeEAPS49eulB659XSU9g"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+						},
+						"href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+						"id": "4Gso3d4CscCijv0lmajZWs",
+						"name": "Don Toliver",
+						"type": "artist",
+						"uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+						},
+						"href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+						"id": "1uNFoZAHBGtllmzznpCI3s",
+						"name": "Justin Bieber",
+						"type": "artist",
+						"uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+						},
+						"href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+						"id": "1RyvyyTE3xzB2ZywiAwp0i",
+						"name": "Future",
+						"type": "artist",
+						"uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/3UeapbH1wFSnDjCjraZMQ2"
+				},
+				"href": "https://api.spotify.com/v1/albums/3UeapbH1wFSnDjCjraZMQ2",
+				"id": "3UeapbH1wFSnDjCjraZMQ2",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2736a781a84ae7590cde3d6ec7c",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e026a781a84ae7590cde3d6ec7c",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048516a781a84ae7590cde3d6ec7c",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Private Landing (feat. Justin Bieber & Future)",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:3UeapbH1wFSnDjCjraZMQ2"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+						},
+						"href": "https://api.spotify.com/v1/artists/31W5EY0aAly4Qieq6OFu6I",
+						"id": "31W5EY0aAly4Qieq6OFu6I",
+						"name": "A Boogie Wit da Hoodie",
+						"type": "artist",
+						"uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/4nyxGdMhZ5hEweO9HASsvu"
+				},
+				"href": "https://api.spotify.com/v1/albums/4nyxGdMhZ5hEweO9HASsvu",
+				"id": "4nyxGdMhZ5hEweO9HASsvu",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2736052784307eee9a8c1ce1759",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e026052784307eee9a8c1ce1759",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048516052784307eee9a8c1ce1759",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Secrets (feat. Mariah the Scientist)",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 4,
+				"type": "album",
+				"uri": "spotify:album:4nyxGdMhZ5hEweO9HASsvu"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+						},
+						"href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+						"id": "4Gso3d4CscCijv0lmajZWs",
+						"name": "Don Toliver",
+						"type": "artist",
+						"uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+						},
+						"href": "https://api.spotify.com/v1/artists/3tVQdUvClmAT7URs9V3rsp",
+						"id": "3tVQdUvClmAT7URs9V3rsp",
+						"name": "Wizkid",
+						"type": "artist",
+						"uri": "spotify:artist:3tVQdUvClmAT7URs9V3rsp"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/7miiTFzwsTLUodeoiBmc8a"
+				},
+				"href": "https://api.spotify.com/v1/albums/7miiTFzwsTLUodeoiBmc8a",
+				"id": "7miiTFzwsTLUodeoiBmc8a",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273261e311b742a70a1385c4569",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02261e311b742a70a1385c4569",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851261e311b742a70a1385c4569",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Slow Motion (feat. Wizkid)",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:7miiTFzwsTLUodeoiBmc8a"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+						},
+						"href": "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
+						"id": "26VFTg2z8YR0cCuwLzESi2",
+						"name": "Halsey",
+						"type": "artist",
+						"uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
+				},
+				"href": "https://api.spotify.com/v1/albums/3j2D3GopiCavuGNJdENOmz",
+				"id": "3j2D3GopiCavuGNJdENOmz",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2739f5694123ca83b1d87a568c3",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e029f5694123ca83b1d87a568c3",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048519f5694123ca83b1d87a568c3",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Die 4 Me",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:3j2D3GopiCavuGNJdENOmz"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+						},
+						"href": "https://api.spotify.com/v1/artists/4Gso3d4CscCijv0lmajZWs",
+						"id": "4Gso3d4CscCijv0lmajZWs",
+						"name": "Don Toliver",
+						"type": "artist",
+						"uri": "spotify:artist:4Gso3d4CscCijv0lmajZWs"
+					},
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+						},
+						"href": "https://api.spotify.com/v1/artists/0fGcIStdT1OpFFhOC7Wp36",
+						"id": "0fGcIStdT1OpFFhOC7Wp36",
+						"name": "Teezo Touchdown",
+						"type": "artist",
+						"uri": "spotify:artist:0fGcIStdT1OpFFhOC7Wp36"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/7Dp0p8fRFjx2puFSpc9U45"
+				},
+				"href": "https://api.spotify.com/v1/albums/7Dp0p8fRFjx2puFSpc9U45",
+				"id": "7Dp0p8fRFjx2puFSpc9U45",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273c05607bb49ea38d4be5e2ce3",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02c05607bb49ea38d4be5e2ce3",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851c05607bb49ea38d4be5e2ce3",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Luckily I’m Having (feat. Teezo Touchdown)",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:7Dp0p8fRFjx2puFSpc9U45"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+						},
+						"href": "https://api.spotify.com/v1/artists/31W5EY0aAly4Qieq6OFu6I",
+						"id": "31W5EY0aAly4Qieq6OFu6I",
+						"name": "A Boogie Wit da Hoodie",
+						"type": "artist",
+						"uri": "spotify:artist:31W5EY0aAly4Qieq6OFu6I"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/16c1W4KD4BMzWki5SMedyh"
+				},
+				"href": "https://api.spotify.com/v1/albums/16c1W4KD4BMzWki5SMedyh",
+				"id": "16c1W4KD4BMzWki5SMedyh",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b2739744d4e282a651f31db28237",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e029744d4e282a651f31db28237",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d000048519744d4e282a651f31db28237",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Secrets (feat. Mariah the Scientist)",
+				"release_date": "2023-02-23",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:16c1W4KD4BMzWki5SMedyh"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+						},
+						"href": "https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6",
+						"id": "5YGY8feqx7naU7z4HrwZM6",
+						"name": "Miley Cyrus",
+						"type": "artist",
+						"uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/6Zs0gWsA3JOvdL61eKnEt7"
+				},
+				"href": "https://api.spotify.com/v1/albums/6Zs0gWsA3JOvdL61eKnEt7",
+				"id": "6Zs0gWsA3JOvdL61eKnEt7",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b273fd30b7de3cb57439ba47adda",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e02fd30b7de3cb57439ba47adda",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d00004851fd30b7de3cb57439ba47adda",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Flowers (Demo)",
+				"release_date": "2023-03-03",
+				"release_date_precision": "day",
+				"total_tracks": 2,
+				"type": "album",
+				"uri": "spotify:album:6Zs0gWsA3JOvdL61eKnEt7"
+			},
+			{
+				"album_group": "single",
+				"album_type": "single",
+				"artists": [
+					{
+						"external_urls": {
+							"spotify": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+						},
+						"href": "https://api.spotify.com/v1/artists/0VRj0yCOv2FXJNP47XQnx5",
+						"id": "0VRj0yCOv2FXJNP47XQnx5",
+						"name": "Quavo",
+						"type": "artist",
+						"uri": "spotify:artist:0VRj0yCOv2FXJNP47XQnx5"
+					}
+				],
+				"external_urls": {
+					"spotify": "https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p"
+				},
+				"href": "https://api.spotify.com/v1/albums/4y4p9wI8BXL9sRKToCNA7p",
+				"id": "4y4p9wI8BXL9sRKToCNA7p",
+				"images": [
+					{
+						"height": 640,
+						"url": "https://i.scdn.co/image/ab67616d0000b27374c78dff462a08d1cfc58c7e",
+						"width": 640
+					},
+					{
+						"height": 300,
+						"url": "https://i.scdn.co/image/ab67616d00001e0274c78dff462a08d1cfc58c7e",
+						"width": 300
+					},
+					{
+						"height": 64,
+						"url": "https://i.scdn.co/image/ab67616d0000485174c78dff462a08d1cfc58c7e",
+						"width": 64
+					}
+				],
+				"is_playable": true,
+				"name": "Greatness",
+				"release_date": "2023-02-24",
+				"release_date_precision": "day",
+				"total_tracks": 1,
+				"type": "album",
+				"uri": "spotify:album:4y4p9wI8BXL9sRKToCNA7p"
+			}
+		],
+		"limit": 50,
+		"next": "https://api.spotify.com/v1/search?query=tag%3Anew&type=album&market=US&offset=50&limit=50",
+		"offset": 0,
+		"previous": null,
+		"total": 1000
+	}
+}

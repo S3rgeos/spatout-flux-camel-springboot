@@ -1,18 +1,15 @@
 package com.groupeonepoint.codingchallenge.flux.routes.entities;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-import java.util.List;
-import java.util.Map;
-
 public class ListAlbums {
-    private List<Album> albums;
 
-    public List<Album> getAlbums() {
+    private Album albums;
+
+    public Album getAlbums() {
         return albums;
     }
 
-    @JsonProperty("albums")
-    public void setAlbums(Map<String, Object> albums) {
-        this.albums = ;
+    public void setAlbums(Album albums) {
+        this.albums = albums;
     }
 }
+
